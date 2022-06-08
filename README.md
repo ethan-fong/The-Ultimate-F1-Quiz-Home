@@ -9,7 +9,7 @@ Highly recommend you try out the quiz here:
 
 ## Features
 
-* Questions are generated using the erghast API. A get request is issued to (https://ergast.com/api/f1/2019/1/results.json) and the JSON file is parsed in the program.
+* Questions are generated using the erghast API. A get request is issued to (e.g. https://ergast.com/api/f1/2019/1/results.json) and the JSON file is parsed in the program.
 * Local memory is used to save progress between pages and implement a highscore board.
 * Infinite replayability!
 
